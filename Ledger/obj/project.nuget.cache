@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2r6tPur47x0wibPqhoGnkpIIvqxlwaY38XGk2HYh3R9o06xNcnKZMqSgxSTYaulyM59zI08VXYpma3YKSlqNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\impec\\Learning\\Microservices\\Microservice_Response-Aggregation\\Ledger\\Ledger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\impec\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\impec\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\impec\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\impec\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\impec\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\impec\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
